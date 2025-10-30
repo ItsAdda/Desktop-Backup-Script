@@ -13,4 +13,4 @@ A simple Python practice script that creates a **Backup** folder on your Desktop
 1. Clone or download the repository  
 2. Run the script:
    ```bash
-   python main.py
+   python practice.py
